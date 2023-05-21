@@ -1,0 +1,92 @@
+Signup form: https://github.com/Rajeev19892021/FSD/blob/master/forms.html
+Html First Web Page: https://github.com/Rajeev19892021/FSD/blob/master/Html_First_Web_Page.html
+maggie Receipe: https://github.com/Rajeev19892021/FSD/blob/master/maggie_Recipe_assignment.html
+Multiple Push:https://github.com/Rajeev19892021/FSD/blob/master/Multiple_Push_assignment.html
+HTML Box model: https://github.com/Rajeev19892021/FSD/tree/master/HTML_BOX_MODEL
+Table Assignment :https://github.com/Rajeev19892021/FSD/blob/master/Table_assignment.html
+Decorated Tables: https://github.com/Rajeev19892021/FSD/blob/master/Decorated_Tables.html
+https://github.com/Rajeev19892021/FSD/blob/master/Abhishek_Coin.html
+===========================================================================
+
+freecodecamp.org
+
+
+===========================================
+
+assignments
+
+https://drive.google.com/drive/folders/1vAK1D3UXFOS26yAzzSyleLFppuTGU9is?usp=share_link
+
+community to follow
+CSS -kevin powell
+
+https://www.youtube.com/@KevinPowell
+
+https://cssbattle.dev/-- website to code challenge
+
+Link 
+https://onecompiler.com/javascript/3yyyak9ah
+
+https://forms.gle/MiZhSp6SduPBv8qY7
+
+Mamta Bhargava
+50
+
+
+9818278296
+
+=========================
+Mock interview need to be scheduled for nex week
+
+https://topmate.io/codewithabhishek/177369
+
+===============================
+for(let k = 1; k<=3; k++){
+  
+  let s = ""
+  for(let i = 1; i<=k; i++){
+     
+     
+     
+     for(j = 1; j<=3; j++){
+       s= s+j
+     }
+     
+     console.log(s)
+      
+  }
+
+
+}
+
+
+HOF
+map
+for-each
+filter
+reduce
+==> custome function
+
+
+https://replit.com/
+https://replit.com/teams/join/culybdeuvaknbivebszuzqjuuwpspxmu-star-batch
+
+prject async
+https://docs.google.com/document/d/1xJsPBoi9Bzgwkh9CG4bpxGBo5zFivSwXyOS_UM9zVjE/edit#
+
+
+====================================================================================================
+
+Link for test
+
+https://docs.google.com/document/d/1gx-lPphUI34udtPGIT0uzm81rtIEGC4CzSVkofm4T44/edit
+
+Last and final test
+
+https://docs.google.com/document/d/1JKf6uSGSB-cLYZ_HF0Uu7ejG-i0t9DFeFW0eg43x0Xg/edit?usp=sharing
+
+TW11
+
+========================================
+
+https://replit.com/teams/join/culybdeuvaknbivebszuzqjuuwpspxmu-star-batch
